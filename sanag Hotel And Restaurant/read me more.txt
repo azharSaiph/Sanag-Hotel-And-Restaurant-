@@ -1,0 +1,18 @@
+Reservation System – Manages room bookings and availability.
+
+Front Desk Management – Handles check-in, check-out, and guest services.
+
+Housekeeping Module – Tracks room cleaning and maintenance.
+
+Billing & Payments – Processes payments, invoices, and refunds.
+
+Customer Relationship Management (CRM) – Stores guest details and preferences.
+Point of Sale (POS) – Processes food orders, bills, and payments.
+
+Table Management – Organizes seating and reservations.
+
+Inventory Management – Tracks stock levels and supply orders.
+
+Kitchen Display System (KDS) – Sends orders directly to the kitchen.
+
+Online Ordering & Delivery – Manages digital food orders and deliveries.
